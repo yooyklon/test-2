@@ -1,0 +1,33 @@
+{
+  "name": "test-2",
+  "version": "1.0.0",
+  "description": "��",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yooyklon/test-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yooyklon/test-2/issues"
+  },
+  "homepage": "https://github.com/yooyklon/test-2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "core-js": "^3.24.1",
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
